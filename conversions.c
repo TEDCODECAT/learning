@@ -1,14 +1,10 @@
 /*
    LISTEN HERE YOU LITTLE SKANKS:
-   If you dont have my particular header file titled: "metric.h"
-   you will be up shits creek without a header file. 
-
-   If you do happen to have my obscure-ass file, well congradulations.
-   There is no way this program will make sense without my acronym definitions.
-   This simple program (+the header file) allows you to convert metric to imperial measurements.
-   Honestly this is just a pet project to learn how to use macros and header files
-   you can just google this shit
-   */
+   you need to use the file "metric.h" to run this program
+   i've layed out the acronyms in the definitions in metric.h in the "definitions btiches" segment
+   you can just google the values instead of using my conversion program lol
+   alrighty see ya!
+*/
 
 /* *******DEFINITION BITCHES********** */
 
