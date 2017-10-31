@@ -1,3 +1,8 @@
+/*
+these are definitions that you need to run the program that converts measurements
+*/
+
+
 #define IPC	0.394
 #define CPI	1 / IPC
 
