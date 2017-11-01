@@ -1,5 +1,4 @@
 /*
-   LISTEN HERE YOU LITTLE SKANKS:
    you need to use the file "metric.h" to run this program
    i've layed out the acronyms in the definitions in metric.h in the "definitions btiches" segment
    you can just google the values instead of using my conversion program lol
